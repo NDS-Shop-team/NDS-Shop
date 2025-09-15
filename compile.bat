@@ -1,3 +1,3 @@
 @echo off
-make
+make  //compilation
 pause
